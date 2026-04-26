@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "company": {"name": "Acme", "size": 120},
+    "address": {"city": "Amsterdam", "country": "NL"}
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "company": {"name": "Orbital", "size": 45},
+    "address": {"city": "Berlin", "country": "DE"}
+  }
+]
